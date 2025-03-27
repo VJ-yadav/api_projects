@@ -6,3 +6,4 @@ sqlmodel
 pydantic
 asyncpg
 sqlalchemy
+python-decouple
